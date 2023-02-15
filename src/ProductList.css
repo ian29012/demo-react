@@ -1,0 +1,10 @@
+.img {
+    width: 200px;
+}
+
+.boarder {
+    border: 1px solid gray;
+    margin-bottom: 30px;
+    padding: 20px;
+    width: 400px;
+}
